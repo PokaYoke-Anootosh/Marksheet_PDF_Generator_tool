@@ -1,0 +1,18 @@
+Year,Name,Student ID,Course,Location,Institute Branch,Institute Code,Professor Name,Subject,Marks,Program Director
+2022,Emily Adams,3001,Computer Science,New York,Main Campus,INST123,Dr. Anderson,Mathematics,84,Dr. Johnson
+2022,Emily Adams,3001,Computer Science,New York,Main Campus,INST123,Dr. Anderson,Programming,77,Dr. Johnson
+2022,Ethan Brown,3002,Computer Science,Los Angeles,Downtown Branch,INST456,Prof. Carter,Programming,77,Dr. Brown
+2022,Ethan Brown,3002,Computer Science,Los Angeles,Downtown Branch,INST456,Prof. Carter,Algorithms,81,Dr. Brown
+2022,Olivia White,3003,Computer Science,Chicago,East Campus,INST789,Dr. Williams,Algorithms,89,Dr. White
+2022,Olivia White,3003,Computer Science,Chicago,East Campus,INST789,Dr. Williams,Data Structures,84,Dr. White
+2022,Rohan Sharma,3004,Electrical Engineering,Delhi,Main Campus,INST234,Prof. Sharma,Electronics,77,Dr. Reddy
+2022,Rohan Sharma,3004,Electrical Engineering,Delhi,Main Campus,INST234,Prof. Sharma,Power Systems,82,Dr. Reddy
+2022,Neha Desai,3005,Electrical Engineering,Mumbai,Downtown Branch,INST567,Prof. Desai,Power Systems,84,Dr. Patel
+2022,Neha Desai,3005,Electrical Engineering,Mumbai,Downtown Branch,INST567,Prof. Desai,Control Systems,78,Dr. Patel
+2022,Karan Reddy,3006,Electrical Engineering,Bangalore,East Campus,INST890,Dr. Reddy,Control Systems,74,Dr. Kumar
+2022,Karan Reddy,3006,Electrical Engineering,Bangalore,East Campus,INST890,Dr. Reddy,Electronics,78,Dr. Kumar
+2022,Maya Ali,3007,Psychology,Jaipur,Main Campus,INST321,Prof. Ali,Cognitive Psychology,81,Dr. Khan
+2022,Maya Ali,3007,Psychology,Jaipur,Main Campus,INST321,Prof. Ali,Social Psychology,89,Dr. Khan
+2022,Rohit Kapoor,3008,Psychology,Chennai,Downtown Branch,INST654,Prof. Kapoor,Social Psychology,89,Dr. Singh
+2022,Rohit Kapoor,3008,Psychology,Chennai,Downtown Branch,INST654,Prof. Kapoor,Developmental Psychology,85,Dr. Singh
+

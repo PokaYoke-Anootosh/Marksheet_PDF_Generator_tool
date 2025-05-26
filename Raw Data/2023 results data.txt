@@ -1,0 +1,25 @@
+Year,Name,Student ID,Course,Location,Institute Branch,Institute Code,Professor Name,Subject,Marks,Program Director
+2023,John Doe,1001,Computer Science,New York,Main Campus,INST123,Professor Smith,Mathematics,85,Dr. Johnson
+2023,John Doe,1001,Computer Science,New York,Main Campus,INST123,Professor Smith,Programming,78,Dr. Johnson
+2023,Jane Smith,1002,Computer Science,Los Angeles,Downtown Branch,INST456,Professor Johnson,Programming,78,Dr. Brown
+2023,Jane Smith,1002,Computer Science,Los Angeles,Downtown Branch,INST456,Professor Johnson,Algorithms,82,Dr. Brown
+2023,Michael Brown,1003,Computer Science,Chicago,East Campus,INST789,Professor Williams,Algorithms,92,Dr. White
+2023,Michael Brown,1003,Computer Science,Chicago,East Campus,INST789,Professor Williams,Data Structures,88,Dr. White
+2023,Rahul Gupta,1004,Electrical Engineering,Delhi,Main Campus,INST234,Professor Sharma,Electronics,80,Dr. Reddy
+2023,Rahul Gupta,1004,Electrical Engineering,Delhi,Main Campus,INST234,Professor Sharma,Power Systems,85,Dr. Reddy
+2023,Priya Patel,1005,Electrical Engineering,Mumbai,Downtown Branch,INST567,Professor Desai,Power Systems,88,Dr. Patel
+2023,Priya Patel,1005,Electrical Engineering,Mumbai,Downtown Branch,INST567,Professor Desai,Control Systems,82,Dr. Patel
+2023,Amit Kumar,1006,Electrical Engineering,Bangalore,East Campus,INST890,Professor Reddy,Control Systems,75,Dr. Kumar
+2023,Amit Kumar,1006,Electrical Engineering,Bangalore,East Campus,INST890,Professor Reddy,Electronics,79,Dr. Kumar
+2023,Sara Khan,1007,Psychology,Jaipur,Main Campus,INST321,Professor Ali,Cognitive Psychology,82,Dr. Khan
+2023,Sara Khan,1007,Psychology,Jaipur,Main Campus,INST321,Professor Ali,Social Psychology,90,Dr. Khan
+2023,Riya Singh,1008,Psychology,Chennai,Downtown Branch,INST654,Professor Kapoor,Social Psychology,90,Dr. Singh
+2023,Riya Singh,1008,Psychology,Chennai,Downtown Branch,INST654,Professor Kapoor,Developmental Psychology,86,Dr. Singh
+2023,Arjun Mehta,1009,Psychology,Kolkata,East Campus,INST987,Professor Das,Developmental Psychology,86,Dr. Mehta
+2023,Arjun Mehta,1009,Psychology,Kolkata,East Campus,INST987,Professor Das,Cognitive Psychology,88,Dr. Mehta
+2023,Alex Johnson,1010,Physics,London,West Campus,INST432,Professor Brown,Mechanics,79,Dr. Taylor
+2023,Alex Johnson,1010,Physics,London,West Campus,INST432,Professor Brown,Thermodynamics,83,Dr. Taylor
+2023,Sophie Taylor,1011,Physics,Paris,Main Campus,INST765,Professor Martin,Optics,83,Dr. Martinez
+2023,Sophie Taylor,1011,Physics,Paris,Main Campus,INST765,Professor Martin,Quantum Physics,91,Dr. Martinez
+2023,Lucas Martinez,1012,Physics,Berlin,Downtown Branch,INST876,Professor Mueller,Thermodynamics,91,Dr. Schmidt
+2023,Lucas Martinez,1012,Physics,Berlin,Downtown Branch,INST876,Professor Mueller,Statistical Mechanics,88,Dr. Schmidt
